@@ -1,1 +1,2 @@
-# WebStepik
+# Stepik
+Задачи для курса
